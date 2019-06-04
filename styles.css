@@ -1,0 +1,13 @@
+body{
+    background-color:#fff198;
+}
+
+h1{
+    color:#ff3b86;
+}
+h3, p {
+    color:#9911d4;
+}
+body, h1, h3, p{
+    text-align:center;
+}
